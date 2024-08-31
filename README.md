@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samir-babar
 - 👀 I’m interested in Cyber security and Data analysis..
-- 🌱 I’m currently learning WEB-D 
+- 🌱 I’m currently learning advanced data analysis 
 - 📫 Mail-samirbabar0@gmail.com
   
   
